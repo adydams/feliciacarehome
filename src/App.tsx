@@ -610,7 +610,7 @@ const Index = () => {
         </div>
       </section>
 
-      <section className="py-20 bg-slate-600 text-white">
+      <section className="py-20 bg-slate-300 text-white">
   <div className="grid grid-cols-1 md:grid-cols-2 max-w-7xl mx-auto px-2 sm:px-4 lg:px-8">
     
     {/* Static Image */}
